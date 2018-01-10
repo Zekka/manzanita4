@@ -1,0 +1,6 @@
+﻿Waveform generators.
+Harmonic list generators.
+Test resampling and stuff.
+Reimplement the music from very small C programs demos.
+
+Support looping clips.
